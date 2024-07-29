@@ -1,6 +1,4 @@
  
-![I am GitHub Readme Generator's creator](https://file-chittagong.portal.gov.bd/uploads/5c36ad4a-7a54-44d6-bc67-37e132cfbe46//642/28c/426/64228c426caf0228279584.jpg)
-
  
 ### Hi there 👋, This is Rehan Uddin
 #### a Software/Web Developer
