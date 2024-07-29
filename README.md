@@ -7,7 +7,7 @@
 🥰Assistant Programmer at ICT Division (2019-till)</h4>
 
 <li>Familiar With HTML, CSS, Bootstrap, Javascript, React, PHP, Nodejs, Mysql, Oracle,Ajax</li>
-                <li style="color:brown;">Familiar With Version Control System (GIT, GITHUB)🤍</li>
+                <li style="color:brown;">I am familiar With Version Control System (GIT, GITHUB)🤍</li>
                 <li>I Can Write Clean, Efficient, Scalable Code🤍</li>
                 <li style="color:brown;">I am able to identify and fix bugs in existing application</li>
                 <li>Familiar with laravel framework</li>
